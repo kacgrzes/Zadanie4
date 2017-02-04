@@ -1,0 +1,22 @@
+{
+  "name": "zadanie4",
+  "version": "1.0.0",
+  "description": "kolejne zadanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nauka",
+    "npm",
+    "node"
+  ],
+
+  "author": "mraq",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "stat-mode": "^0.2.2"
+  }
+}
