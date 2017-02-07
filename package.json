@@ -16,7 +16,6 @@
   "author": "mraq",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.1.2",
-    "stat-mode": "^0.2.2"
+    "colors": "^1.1.2"
   }
 }
